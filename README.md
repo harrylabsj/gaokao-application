@@ -15,6 +15,12 @@ It helps students and parents build cautious志愿填报 plans from province rul
 
 ## Install
 
+SkillHub page:
+
+```text
+https://skillhub.cn/skills/gaokao-application
+```
+
 ### Hermes
 
 ```bash
