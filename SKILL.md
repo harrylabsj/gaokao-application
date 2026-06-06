@@ -1,7 +1,7 @@
 ---
 name: gaokao-application
-description: Use when helping mainland China Gaokao students or parents choose universities, majors, college-major groups, or volunteer application strategies. Supports province-specific admission rules, rank-based matching, uploaded admission datasets, and cautious 冲稳保垫 planning. Do not use to guarantee admission.
-metadata: {"slug":"gaokao-application","version":"1.1.0","display_name":"高考志愿填报助手","tags":["gaokao","college-application","china-admissions","volunteer-application","高考","志愿填报","高考志愿","大学","专业"],"openclaw":{"requires":{"bins":["python3"],"env":[]},"os":["linux","darwin","win32"]},"hermes":{"tags":["gaokao","college-application","education","china-admissions"],"category":"education"}}
+description: 用于帮助大陆高考学生或家长选择大学、专业、院校专业组，或制定志愿填报策略。支持省份规则、位次匹配、用户上传录取数据，以及谨慎的冲稳保垫规划。不会保证录取。
+metadata: {"slug":"gaokao-application","version":"1.1.1","display_name":"高考志愿填报助手","tags":["gaokao","college-application","china-admissions","volunteer-application","高考","志愿填报","高考志愿","大学","专业"],"openclaw":{"requires":{"bins":["python3"],"env":[]},"os":["linux","darwin","win32"]},"hermes":{"tags":["gaokao","college-application","education","china-admissions"],"category":"education"}}
 ---
 
 # 高考志愿填报助手
